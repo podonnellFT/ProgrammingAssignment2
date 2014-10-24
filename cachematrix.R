@@ -1,5 +1,5 @@
 ## This script contains a pair of functions that cache the inverse of a matrix to
-## avoid unnecessary computation of an inverse if it already exists
+## avoid unnecessary computation of an inverse if it already exists - ie caching.
 
 ## The function below creates the object that can cache its inverse
 
