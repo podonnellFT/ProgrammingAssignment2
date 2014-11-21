@@ -2,6 +2,7 @@
 ## avoid unnecessary computation of an inverse if it already exists - ie caching.
 
 ## The function below creates the object that can cache its inverse
+## this is my second go at this so hope it is ok now
 
 makeCacheMatrix <- function(x = matrix()) {
   m<-NULL
